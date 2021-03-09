@@ -6,6 +6,4 @@ aliases = ["about-us", "about-alex", "contact"]
 author = "Alex Alapatt"
 +++
 
-I created this website to practice CI/CD on Azure, which is the cloud provider for my employer. 
-<br><br>
-I do have a few topics to write about, so I'll do that while I'm here. 
+I created this website to practice CI/CD with Git and Azure. I have a few topics to write about, so I'll do that while I'm here. 
