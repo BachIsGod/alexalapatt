@@ -1,7 +1,7 @@
 +++
 author = "Alex Alapatt"
 title = "The books Lincoln read"
-date = "2021-03-02"
+date = "2021-03-09"
 description = "A few books that Abraham Linoln Read"
 tags = [
     "books"
@@ -71,7 +71,7 @@ Although I'm not religious, I've been reading the Bible out loud recently. My wi
 
 Many years ago, I decided it wasn't enough to just read the same books as Lincoln, I would have to find the same editions. The first book I was able to get a copy of was Kirkham's Grammar, 11th edition, from 1829.
 
-![Lincoln books](book1.jpg)
+![Lincoln books](/images/book1.jpg)
 
 Given that the book is almost 200 years old, it is still in great condition! On the inner cover, there is a signature "Philip Troups 1854".  The cover is leather and most of the binding is still intact.
 
@@ -79,12 +79,11 @@ Although my goal was to read this book, the Bible, Shakespeare, and then suddenl
 
 The second book I was able to purchase was "Lessons in Elocution", edition unknown, from 1820. The book has a short introduction on speaking that would still hold weight today, as cadence, voice and other common speaking terms are covered. The book then has a compilation of works for the user to practice. I read through many of them and noted Aesop's fable, to lines from Paradise lost (Better to reign in Hell than serve in Heaven).
 
-![Lincoln books](book2.jpg)
-
-![Lincoln books](book3.jpg)
+![Lincoln books](/images/book2.jpg)
+![Lincoln books](/images/book3.jpg)
 
 But I never finished this book. The text is small, and some lines are faded. I also felt schizophrenic reading the book as it jumped to different themed books without any warning. I could only imagine what I sounded like reading these books out loud!
 
-![Lincoln books](book4.jpg)
+![Lincoln books](/images/book4.jpg)
 
 

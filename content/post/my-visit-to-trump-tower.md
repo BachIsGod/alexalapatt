@@ -1,6 +1,6 @@
 ---
 title: "My 1990's visit to Trump Tower"
-date: 2018-03-09T09:48:55-05:00
+date: 2021-03-02T09:48:55-05:00
 Description: "My 1990's visit to Trump Tower"
 Tags: []
 Categories: [travel]
